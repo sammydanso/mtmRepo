@@ -1,10 +1,8 @@
 # mtmRepo
 This repository has a solution to the MTM data exercise
 
-
 # Approach 
-The problem is formulated as claasification task and employs Corpus Lingustics, Natural Language Processing and Machine Learning approaches to developing this solution
-
+The problem is formulated as classification task and employs Corpus Lingustics, Natural Language Processing and Machine Learning approaches to developing this solution
 
 # Dependencies
 * Python3+

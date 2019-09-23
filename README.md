@@ -20,7 +20,7 @@ The problem is formulated as classification task and employs Corpus Lingustics, 
 Program predicts search item to belog to the following categories:
 
 * d_and_a -> means the search  is predicted to be an 'Adjustment and Amortisation' item
-* adjustment -> means means the search  is predicted to be an 'Adjustment' item
-* other - means means the search  is predicted to be  a 'can be ignored' item
+* adjustment -> means the search  is predicted to be an 'Adjustment' item
+* other - means the search  is predicted to be  a 'can be ignored' item
 
 
